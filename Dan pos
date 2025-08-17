@@ -1,0 +1,16 @@
+DAN-POS/
+│
+├── 📂 app/                  # Main source code of the mobile app
+│   ├── 📂 src/              # Source code files (Java/Kotlin or Flutter/Dart)
+│   ├── 📂 assets/           # Images, logos, icons
+│   └── 📂 libs/             # External libraries if any
+│
+├── 📂 docs/                 # Documentation files
+│   └── screenshots/         # Screenshots of the app
+│
+├── 📂 release/              # Compiled app releases
+│   └── DAN_POS_v1.apk       # Your APK file goes here
+│
+├── .gitignore               # To ignore build files
+├── LICENSE                  # License file (MIT, Apache, etc.)
+└── README.md                # Project description
