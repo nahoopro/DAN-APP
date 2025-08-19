@@ -46,3 +46,26 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 📧 nahoopro@gmail.com  
 📞 +211919260730  
 🌐 DAN IT SERVICES
+npm install   # If Node.js
+pip install -r requirements.txt   # If Python
+npm start
+# or
+python main.py
+---
+
+### ✅ Step 2: Add LICENSE
+Choose **MIT License** (good for open source):  
+
+```text
+MIT License
+
+Copyright (c) 2025 DAN IT SERVICES
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+__pycache__/
+*.pyc
+.env
+*.db
+node_modules/
+.env
+dist/
